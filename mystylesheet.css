@@ -1,0 +1,29 @@
+body {
+	background-color: green;
+}
+
+p {
+	background-color: lightgreen;
+}
+
+p {
+	color: blue;
+}
+
+li {
+	color: yellow;
+	font: 1em cursive;
+}
+
+h1 {
+	font: 2.5em sans-serif;
+}
+
+p {
+	border: solid;
+	border-color: black;
+}
+
+p {
+	font: italic 1em serif;
+}

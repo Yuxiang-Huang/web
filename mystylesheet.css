@@ -4,10 +4,10 @@ body {
 
 p {
 	background-color: lightgreen;
-}
-
-p {
 	color: blue;
+	border: solid;
+	border-color: black;
+	font: italic 1.5em serif;
 }
 
 li {
@@ -19,11 +19,23 @@ h1 {
 	font: 2.5em sans-serif;
 }
 
-p {
-	border: solid;
-	border-color: black;
+h2 {
+	display:inline;
+	font: 3em sans-serif;
+	background-color: red;
 }
 
-p {
-	font: italic 1em serif;
+h3 {}
+
+.lists {
+	background-color: blue;
+}
+
+.test {
+	float: left;
+    width: 200px;
+}
+
+.section {
+	display:flex;
 }

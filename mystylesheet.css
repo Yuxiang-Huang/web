@@ -36,3 +36,7 @@ h3 {}
 	float: left;
     width: 440px;
 }
+
+.section {
+display: inline;
+}

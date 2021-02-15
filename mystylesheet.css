@@ -12,7 +12,7 @@ p {
 
 li {
 	color: yellow;
-	font: 1em cursive;
+	font: 2em cursive
 }
 
 h1 {
@@ -38,5 +38,5 @@ h3 {}
 }
 
 .section {
-display: flex;
+	display: flex;
 }

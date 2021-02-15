@@ -7,7 +7,7 @@ p {
 	color: blue;
 	border: solid;
 	border-color: black;
-	font: italic 1.5em serif;
+	font: italic 2em serif;
 }
 
 li {
@@ -16,26 +16,23 @@ li {
 }
 
 h1 {
-	font: 2.5em sans-serif;
+	font: 3em sans-serif;
 }
 
 h2 {
 	display:inline;
-	font: 3em sans-serif;
-	background-color: red;
+	font: 2.5em sans-serif;
+	background-color: lightblue;
 }
 
 h3 {}
 
 .lists {
 	background-color: blue;
+	display: inline
 }
 
 .test {
 	float: left;
-    width: 200px;
-}
-
-.section {
-	display:flex;
+    width: 440px;
 }

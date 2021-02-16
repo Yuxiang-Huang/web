@@ -34,6 +34,10 @@ h2 {
 	display: flex;
 }
 
+h3 {
+font: 2em cursive
+}
+
 a {
 color-yellow
 }

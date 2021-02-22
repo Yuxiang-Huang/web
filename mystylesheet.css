@@ -2,10 +2,6 @@ body {
 	background-color: green;
 }
 
-nav {
-	background-color: red;
-} 
-
 p {
 	background-color: lightgreen;
 	color: blue;
@@ -45,3 +41,7 @@ font: 2em cursive
 a {
 color: yellow;
 }
+
+nav {
+	background-color: red;
+} 

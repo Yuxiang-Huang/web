@@ -10,6 +10,12 @@ p {
 	font: italic 2em serif;
 }
 
+nav {
+	background-color: lightblue;
+	font: bold 4em sans-serif
+}
+	
+
 li {
 	color: yellow;
 	font: 2em cursive

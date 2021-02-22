@@ -12,8 +12,9 @@ p {
 
 nav {
 	background-color: lightblue;
-	font: bold 4em sans-serif
-}
+	font: bold 3em Arial;
+        color: gray;
+} 
 	
 
 li {

@@ -8,14 +8,7 @@ p {
 	border: solid;
 	border-color: black;
 	font: italic 2em serif;
-}
-
-nav {
-	background-color: white;
-	font: bold 3em Arial;
-        color: black;
-} 
-	
+}	
 
 li {
 	color: yellow;
@@ -48,3 +41,9 @@ font: 2em cursive
 a {
 color: yellow;
 }
+
+nav {
+	background-color: black;
+	font: bold 3em Arial;
+        color: white;
+} 

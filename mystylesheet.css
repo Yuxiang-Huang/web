@@ -3,8 +3,8 @@ body {
 }
 
 nav {
-	background-color: red;
-	font: bold 2.5em arial;
+	background-color: black;
+	font: bold 3em arial;
 } 
 
 p {
@@ -21,6 +21,7 @@ li {
 }
 
 h1 {
+	color: yellow;
 	font: 3em sans-serif;
 }
 
@@ -44,5 +45,5 @@ font: 2em cursive
 }
 
 a {
-color: yellow;
+color: white;
 }

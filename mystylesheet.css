@@ -33,7 +33,7 @@ h2 {
 
 .test {
 	float: left;
-    width: 440px;
+    	width: 440px;
 }
 
 .section {
@@ -46,4 +46,8 @@ font: 2em cursive
 
 a {
 color: white;
+}
+
+.images {
+margin-top: 35px
 }
